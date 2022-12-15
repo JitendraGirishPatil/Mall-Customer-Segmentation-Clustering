@@ -14,7 +14,7 @@ To create a WIN-WIN situation for customers and stores. Stores usually identifie
 ## My Approach
 Creating Customer clusters to identify the different types of customers using Unsupervised Machine Learning
 
-This is a clustering problem, So I utilising unsupervised machine learning algorithms such as KMeans Clustering, Hierarchical Clustering and DBSCAN Clustering. Additionally.
+This is a clustering problem, So I utilising unsupervised machine learning algorithms such as KMeans Clustering and Hierarchical Clustering.
 
 ## Technologies Used
 Pandas
